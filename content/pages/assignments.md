@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 97dcd504-ff85-3ae8-7ab8-103d29b1ce50
 ---
@@ -28,11 +29,11 @@ Supporting Materials
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Acoustic Theory ([PDF]({{< baseurl >}}/resources/assignment1))
+Acoustic Theory ({{< resource_link 1241f5a1-9e01-eee7-02e2-edeac35ed7ff "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-An Introduction to LAMINAR ([PDF]({{< baseurl >}}/resources/assignment1_laminar))  
-An Introduction to Using WAVES+ ([PDF]({{< baseurl >}}/resources/assignment1_waves))
+An Introduction to LAMINAR ({{< resource_link 1484e895-b7a0-90ab-74c2-5b600548028e "PDF" >}})  
+An Introduction to Using WAVES+ ({{< resource_link 58eb5770-fda9-3b49-6cc7-2e9c0af19c82 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,7 +42,7 @@ An Introduction to Using WAVES+ ([PDF]({{< baseurl >}}/resources/assignment1_wav
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Speech Sounds ([PDF]({{< baseurl >}}/resources/assignment2))
+Speech Sounds ({{< resource_link 5cb1d79f-a809-2a64-8e90-037c1bad5af9 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -53,7 +54,7 @@ Speech Sounds ([PDF]({{< baseurl >}}/resources/assignment2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Signal Representation ([PDF]({{< baseurl >}}/resources/assignment3))
+Signal Representation ({{< resource_link 143cd7bf-eebd-840d-fb62-43523ad192f7 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -65,7 +66,7 @@ Signal Representation ([PDF]({{< baseurl >}}/resources/assignment3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Acoustic Modeling ([PDF]({{< baseurl >}}/resources/assignment4))
+Acoustic Modeling ({{< resource_link 5174194f-657d-04ce-7920-96235b53d17c "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -77,10 +78,10 @@ Acoustic Modeling ([PDF]({{< baseurl >}}/resources/assignment4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Hidden Markov Models 1 ([PDF]({{< baseurl >}}/resources/assignment5))
+Hidden Markov Models 1 ({{< resource_link a61fc9fb-fbd5-fec5-624b-b6c606996d56 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-Supplement to Q9 and Q10 ([PDF]({{< baseurl >}}/resources/assignment5_supplement))
+Supplement to Q9 and Q10 ({{< resource_link 82b875b5-c789-29ca-f651-71b82b849aef "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +90,7 @@ Supplement to Q9 and Q10 ([PDF]({{< baseurl >}}/resources/assignment5_supplement
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Language Modeling ([PDF]({{< baseurl >}}/resources/assignment6))
+Language Modeling ({{< resource_link ef9b84e6-3317-4416-bd21-2b3a85eda661 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -101,10 +102,10 @@ Language Modeling ([PDF]({{< baseurl >}}/resources/assignment6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Graphical Models ([PDF]({{< baseurl >}}/resources/assignment7))
+Graphical Models ({{< resource_link 4f99642a-aa48-e4ab-e745-93744a277a99 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-Suggested Readings ([PDF]({{< baseurl >}}/resources/assignment7_suggestedreadings))
+Suggested Readings ({{< resource_link 0fc483c4-5f7e-39c3-5162-44ab607edd14 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +114,7 @@ Suggested Readings ([PDF]({{< baseurl >}}/resources/assignment7_suggestedreading
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Hidden Markov Models 2 ([PDF]({{< baseurl >}}/resources/assignment8))
+Hidden Markov Models 2 ({{< resource_link 32abb300-bde8-5ecf-e9f8-0b47b7b5e91a "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -125,7 +126,7 @@ Hidden Markov Models 2 ([PDF]({{< baseurl >}}/resources/assignment8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Segment-Based ASR ([PDF]({{< baseurl >}}/resources/assignment9))
+Segment-Based ASR ({{< resource_link c1768e15-5b5b-cd84-24b8-97f6e7f1078b "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -137,7 +138,7 @@ Segment-Based ASR ([PDF]({{< baseurl >}}/resources/assignment9))
  
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment Errata ([PDF]({{< baseurl >}}/resources/assignmentserrata))
+Assignment Errata ({{< resource_link ce1462ad-d6b3-d9d0-f083-7a07405e67f4 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
