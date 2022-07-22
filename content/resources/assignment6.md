@@ -5,6 +5,7 @@ file: /courses/6-345-automatic-speech-recognition-spring-2003/ef9b84e633174416bd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment6.pdf
 uid: ef9b84e6-3317-4416-bd21-2b3a85eda661
 ---
 Assignment 6: Language Modeling
-

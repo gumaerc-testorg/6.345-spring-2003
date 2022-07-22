@@ -5,6 +5,7 @@ file: /courses/6-345-automatic-speech-recognition-spring-2003/7090872b2d24c30971
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture2.pdf
 uid: 7090872b-2d24-c309-7166-8e13f9514947
 ---
 Acoustic Theory of Speech Production
-

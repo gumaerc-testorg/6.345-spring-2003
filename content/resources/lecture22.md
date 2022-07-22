@@ -5,6 +5,7 @@ file: /courses/6-345-automatic-speech-recognition-spring-2003/1a7d821caa2c158bb6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture22.pdf
 uid: 1a7d821c-aa2c-158b-b6ec-12b09d392625
 ---
 Conversational Systems: Advances and Challenges
-

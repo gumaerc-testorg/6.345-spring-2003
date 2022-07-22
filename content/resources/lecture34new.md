@@ -5,6 +5,7 @@ file: /courses/6-345-automatic-speech-recognition-spring-2003/50d1a4af0b8168977c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture34new.pdf
 uid: 50d1a4af-0b81-6897-7cd2-05dba8c4f414
 ---
 Speech Sounds of American English
-

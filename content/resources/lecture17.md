@@ -5,6 +5,7 @@ file: /courses/6-345-automatic-speech-recognition-spring-2003/9a31aca0db69d25845
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture17.pdf
 uid: 9a31aca0-db69-d258-4590-cd9d85c3ae57
 ---
 Finite-State Techniques for Speech Recognition
-

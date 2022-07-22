@@ -5,6 +5,7 @@ file: /courses/6-345-automatic-speech-recognition-spring-2003/1749b7436c6876987c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture1.pdf
 uid: 1749b743-6c68-7698-7c11-a4b3a682e4c3
 ---
 Lecture slides.
-

@@ -5,6 +5,7 @@ file: /courses/6-345-automatic-speech-recognition-spring-2003/27f6a52bf2a27718ba
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture9.pdf
 uid: 27f6a52b-f2a2-7718-ba66-9c86e0f3472e
 ---
 Dynamic Time Warping & Search
-

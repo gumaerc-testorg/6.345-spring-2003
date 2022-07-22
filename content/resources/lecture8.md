@@ -5,6 +5,7 @@ file: /courses/6-345-automatic-speech-recognition-spring-2003/d0ed18fdb5fe11685a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture8.pdf
 uid: d0ed18fd-b5fe-1168-5a57-d99b96e35db2
 ---
 Pattern Classification
-

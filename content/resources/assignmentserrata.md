@@ -5,6 +5,7 @@ file: /courses/6-345-automatic-speech-recognition-spring-2003/ce1462add6b3d9d0f0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: AssignmentsErrata.pdf
 uid: ce1462ad-d6b3-d9d0-f083-7a07405e67f4
 ---
 6.345 Assignment Errata
-

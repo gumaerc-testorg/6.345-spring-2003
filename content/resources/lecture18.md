@@ -5,6 +5,7 @@ file: /courses/6-345-automatic-speech-recognition-spring-2003/a3b3fbd14031c6da1c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture18.pdf
 uid: a3b3fbd1-4031-c6da-1c2d-5918269d4897
 ---
 ASR for Spoken-Dialogue Systems
-

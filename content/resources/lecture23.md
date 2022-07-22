@@ -5,6 +5,7 @@ file: /courses/6-345-automatic-speech-recognition-spring-2003/faf9adb571e8881de7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture23.pdf
 uid: faf9adb5-71e8-881d-e720-f7965fd7b27b
 ---
 Paralinguistic Information Processing
-
