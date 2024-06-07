@@ -2,6 +2,7 @@
 content_type: resource
 description: Paralinguistic Information Processing
 file: /courses/6-345-automatic-speech-recognition-spring-2003/faf9adb571e8881de720f7965fd7b27b_lecture23.pdf
+file_size: 1011737
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

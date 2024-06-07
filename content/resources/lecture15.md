@@ -3,6 +3,7 @@ content_type: resource
 description: 'Part I: Designing HMM-based ASR systems Part II: Training continuous
   density HMMs'
 file: /courses/6-345-automatic-speech-recognition-spring-2003/0727bf4f77befb7d1f924506326e1c86_lecture15.pdf
+file_size: 1476881
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
