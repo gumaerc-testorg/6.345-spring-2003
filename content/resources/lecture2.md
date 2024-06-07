@@ -2,6 +2,7 @@
 content_type: resource
 description: Acoustic Theory of Speech Production
 file: /courses/6-345-automatic-speech-recognition-spring-2003/7090872b2d24c30971668e13f9514947_lecture2.pdf
+file_size: 1464392
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

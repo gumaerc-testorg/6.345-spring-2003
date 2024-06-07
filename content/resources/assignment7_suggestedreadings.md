@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignment 7: Suggested Readings'
 file: /courses/6-345-automatic-speech-recognition-spring-2003/0fc483c45f7e39c3516244ab607edd14_assignment7_suggestedreadings.pdf
+file_size: 81907
 file_type: application/pdf
 learning_resource_types:
 - Assignments
