@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 7: Fun With Graphical Models'
-file: /courses/6-345-automatic-speech-recognition-spring-2003/4f99642aaa48e4abe74593744a277a99_assignment7.pdf
+file: /ol-ocw-studio-app/courses/6-345-automatic-speech-recognition-spring-2003/4f99642aaa48e4abe74593744a277a99_assignment7.pdf
 file_size: 93026
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Pattern Classification
-file: /courses/6-345-automatic-speech-recognition-spring-2003/d0ed18fdb5fe11685a57d99b96e35db2_lecture8.pdf
+file: /ol-ocw-studio-app/courses/6-345-automatic-speech-recognition-spring-2003/d0ed18fdb5fe11685a57d99b96e35db2_lecture8.pdf
 file_size: 956303
 file_type: application/pdf
 learning_resource_types:
