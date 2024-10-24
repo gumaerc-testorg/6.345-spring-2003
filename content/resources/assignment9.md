@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment 9 An Introduction to the SUMMIT Speech Recognition System
-file: /courses/6-345-automatic-speech-recognition-spring-2003/c1768e155b5bcd8424b897f6e7f1078b_assignment9.pdf
+file: /ol-ocw-studio-app/courses/6-345-automatic-speech-recognition-spring-2003/c1768e155b5bcd8424b897f6e7f1078b_assignment9.pdf
 file_size: 78822
 file_type: application/pdf
 learning_resource_types:

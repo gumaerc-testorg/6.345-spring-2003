@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 6.345 Assignment Errata
-file: /courses/6-345-automatic-speech-recognition-spring-2003/ce1462add6b3d9d0f0837a07405e67f4_AssignmentsErrata.pdf
+file: /ol-ocw-studio-app/courses/6-345-automatic-speech-recognition-spring-2003/ce1462add6b3d9d0f0837a07405e67f4_AssignmentsErrata.pdf
 file_size: 65346
 file_type: application/pdf
 learning_resource_types:
