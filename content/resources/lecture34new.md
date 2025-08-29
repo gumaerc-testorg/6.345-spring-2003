@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Speech Sounds of American English
-file: /courses/6-345-automatic-speech-recognition-spring-2003/50d1a4af0b8168977cd205dba8c4f414_lecture34new.pdf
+file: /ol-ocw-studio-app/courses/6-345-automatic-speech-recognition-spring-2003/50d1a4af0b8168977cd205dba8c4f414_lecture34new.pdf
 file_size: 3817810
 file_type: application/pdf
 learning_resource_types:

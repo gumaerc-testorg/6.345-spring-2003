@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Noise Robustness and Confidence Scoring
-file: /courses/6-345-automatic-speech-recognition-spring-2003/79f4dce95d2dda344bf1a339d95ae2da_lecture20.pdf
+file: /ol-ocw-studio-app/courses/6-345-automatic-speech-recognition-spring-2003/79f4dce95d2dda344bf1a339d95ae2da_lecture20.pdf
 file_size: 245540
 file_type: application/pdf
 learning_resource_types:
