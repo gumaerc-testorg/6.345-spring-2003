@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 1 Information: An Introduction to laminar'
-file: /courses/6-345-automatic-speech-recognition-spring-2003/1484e895b7a090ab74c25b600548028e_assignment1_LAMINAR.pdf
+file: /ol-ocw-studio-app/courses/6-345-automatic-speech-recognition-spring-2003/1484e895b7a090ab74c25b600548028e_assignment1_LAMINAR.pdf
 file_size: 221499
 file_type: application/pdf
 learning_resource_types:

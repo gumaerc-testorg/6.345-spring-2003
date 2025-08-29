@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 1: Speech Production'
-file: /courses/6-345-automatic-speech-recognition-spring-2003/1241f5a19e01eee702e2edeac35ed7ff_assignment1.pdf
+file: /ol-ocw-studio-app/courses/6-345-automatic-speech-recognition-spring-2003/1241f5a19e01eee702e2edeac35ed7ff_assignment1.pdf
 file_size: 47604
 file_type: application/pdf
 learning_resource_types:
