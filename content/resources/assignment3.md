@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 3: Signal Representation'
-file: /courses/6-345-automatic-speech-recognition-spring-2003/143cd7bfeebd840dfb6243523ad192f7_assignment3.pdf
+file: /ol-ocw-studio-app/courses/6-345-automatic-speech-recognition-spring-2003/143cd7bfeebd840dfb6243523ad192f7_assignment3.pdf
 file_size: 491353
 file_type: application/pdf
 learning_resource_types:

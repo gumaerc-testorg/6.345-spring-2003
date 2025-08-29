@@ -3,7 +3,7 @@ content_type: resource
 description: 'A Practical Introduction to Graphical Models
 
   and their use in ASR'
-file: /courses/6-345-automatic-speech-recognition-spring-2003/c63a9140453af8c97ef2fcb7de0c1587_lecture13.pdf
+file: /ol-ocw-studio-app/courses/6-345-automatic-speech-recognition-spring-2003/c63a9140453af8c97ef2fcb7de0c1587_lecture13.pdf
 file_size: 558777
 file_type: application/pdf
 learning_resource_types:

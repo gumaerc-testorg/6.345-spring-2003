@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Modelling New Words
-file: /courses/6-345-automatic-speech-recognition-spring-2003/8dfc8f517d99400465ccf2015ac338be_lecture19.pdf
+file: /ol-ocw-studio-app/courses/6-345-automatic-speech-recognition-spring-2003/8dfc8f517d99400465ccf2015ac338be_lecture19.pdf
 file_size: 344154
 file_type: application/pdf
 learning_resource_types:
